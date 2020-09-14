@@ -46,6 +46,4 @@ But when I build it for the combined cuda+openvino case, only the IE backend wor
      Libraries:                   /usr/lib/x86_64-linux-gnu/libpython3.6m.so (ver 3.6.9)
      numpy:                       /home/sasan/.local/lib/python3.6/site-packages/numpy/core/include (ver 1.19.1)
      install path:                lib/python3.6/dist-packages/cv2/python-3.6
-
-
     ```
